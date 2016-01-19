@@ -20,7 +20,7 @@ android {
 }
 
 dependencies {
-    compile project(':markdownview')
+    compile project(':mv')
     compile libraries.supportAppCompat
     testCompile libraries.junit
 }

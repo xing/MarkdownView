@@ -1,6 +1,5 @@
 
 ![MarkdownView screenshot](http://i.imgur.com/EDDSxZK.jpg)
-[ ![Download](https://api.bintray.com/packages/falnatsheh/maven/MarkdownView/images/download.svg) ](https://bintray.com/falnatsheh/maven/MarkdownView/_latestVersion)
 
 ## About
 
@@ -96,4 +95,18 @@ You could take a look at CSS example [here](https://github.com/falnatsheh/Markdo
 
 						
 ## License
-Apache 2.0
+
+  	Copyright (C) 2016 XING AG (http://xing.com/)
+  	Copyright (C) 2011 Feras Alnatsheh
+    
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+    
+       http://www.apache.org/licenses/LICENSE-2.0
+    
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
